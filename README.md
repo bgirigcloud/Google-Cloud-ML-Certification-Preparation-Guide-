@@ -1,1 +1,1 @@
-# Google-Cloud-ML-Certification-Preparation-Guide-
+# Google-Cloud-ML-Certification-Preparation-Guide
